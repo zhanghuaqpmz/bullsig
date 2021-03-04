@@ -1,4 +1,4 @@
-/*Copyright (C)[2019-2029] [Bruce Zhang, bjbrucezhang@sina.com]
+/*Copyright (C)[2019-2029] [Bruce Zhang, hua_zhang_bj@sina.com]
 * 
 * All rights reserved
 * 
