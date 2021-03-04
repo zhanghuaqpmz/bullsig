@@ -1,0 +1,5 @@
+CC=gcc
+AR=ar
+
+#EDITOR=====================
+PROJECT_ROOT_PATH:=/home/zhanghua/project/project_for_rust/source_code/bullsig
