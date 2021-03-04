@@ -32,14 +32,23 @@ And then you can operate this software step by step according to the following h
 
 
           Decentralized Distributed Co-Signing Software BULLSIG Version 1(Command List)
+
 set signing-committee's size(default is 3)             : setsize x(signing-committee's size)
+
 generate address and private key                       : genkey
+
 generate fragments of a private key                    : genfrag xxx(the key file will be split)
+
 generate signature using whole private key             : sig xxx(key file)  yyy(message will be signed)
+
 generate signature using private-key's fragments       : bullsig xxx(message will be signed)
+
 verify a signature                                     : verify xxx(the signature file will be verified) yyy(the message be signed)
+
 exit this software                                     : quit
+
 help information                                       : help
+
 
 
 
